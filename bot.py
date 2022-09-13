@@ -45,7 +45,7 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        logging.info("🚀Restarting..PROFESSOR-BOT💥")
+        logging.info("🚀Restarting..𝖢𝖧𝖱𝖨𝖲𝖳𝖮𝖯𝖧𝖤𝖱 𝖭𝖮𝖫𝖠𝖭 Bot💥")
 
     
 app = Bot()
